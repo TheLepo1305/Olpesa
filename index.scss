@@ -1,0 +1,7 @@
+$colors: (
+    "primary": #f9f3f4
+);
+
+.section{
+    color: map-get($colors, "primary");
+}
